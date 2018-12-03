@@ -1,0 +1,21 @@
+{
+  "name": "phaser-raining-chain",
+  "version": "1.0.0",
+  "description": "A simple socket io example using raining chain tutorial",
+  "main": "app.js",
+  "repository": "https://github.com/vickylance/phaser-raining-chain.git",
+  "author": "Vignesh S",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
